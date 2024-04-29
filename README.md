@@ -71,9 +71,10 @@ To install dependencies, run:
 pip install -r requirements.txt
 
 ## Screenshots
-![download](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/c4351665-ff57-486b-bb11-07121fbb3b99)
-![confusion matrix](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/1dc98752-9a6d-48a6-8fca-861259203c32)
-![whole data frame with histogram](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/12803ac1-608d-43a9-80e1-08a146e59e28)
-![heatmap for corelation](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/d8db359a-005e-48b1-8ca2-85315e92750c)
-![heatmap data cleansing](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/fee55b67-7bfa-482e-9357-de0a8d58fc85)
+
+![whole data frame with histogram](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/281149e3-65d8-4335-829c-cffeb770d5b1)
+![heatmap for corelation](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/b4992055-3ef8-4e2f-8ec5-64595d276e9f)
+![heatmap data cleansing](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/7769c671-ae78-4d50-85b0-c71d21fb47a6)
+![download](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/cef5fdd7-68c6-4e86-96d3-40b61db34946)
+![confusion matrix](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/9b58cf77-1e0f-47f2-8d7d-704943080c49)
 
