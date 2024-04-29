@@ -1,3 +1,21 @@
+# Screenshots
+
+## Whole Dataframe:
+![whole data frame with histogram](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/1a5b203d-9a16-4ea0-937e-786918724384)
+
+## Correlation:
+![heatmap for corelation](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/cb71bf57-dc1b-4a62-959f-a8617c948f8f)
+
+## Data Cleansing:
+![heatmap data cleansing](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/98b9dd50-b248-4aa5-afac-e4d88dd72114)
+
+## Heatmap:
+![download](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/dc70e561-fa9a-483b-a39d-ffde28f99429)
+
+## Condusion Matrix:
+![confusion matrix](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/5d270eae-8f5c-4a18-ac4a-f3e98b1dec72)
+
+
 # XGBoost Model Project
 
 This project involves the use of the XGBoost machine learning library to create a model for classification or regression tasks. This README provides an overview of the project structure, data preparation, model training, and how to use the trained model for predictions.
@@ -12,6 +30,7 @@ This project involves the use of the XGBoost machine learning library to create 
 - [Model Loading](#model-loading)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
+- [Screenshots](#screenshots)
 - [Contact](#contact)
 
 ## Project Structure
@@ -69,12 +88,3 @@ To install dependencies, run:
 
 ```shell
 pip install -r requirements.txt
-
-## Screenshots
-
-![whole data frame with histogram](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/281149e3-65d8-4335-829c-cffeb770d5b1)
-![heatmap for corelation](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/b4992055-3ef8-4e2f-8ec5-64595d276e9f)
-![heatmap data cleansing](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/7769c671-ae78-4d50-85b0-c71d21fb47a6)
-![download](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/cef5fdd7-68c6-4e86-96d3-40b61db34946)
-![confusion matrix](https://github.com/ArsalMirza007/Predicting-Cervical-Cancer-Using-XGBoost/assets/121928372/9b58cf77-1e0f-47f2-8d7d-704943080c49)
-
